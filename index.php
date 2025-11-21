@@ -3,8 +3,6 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-// Thiết lập múi giờ
-date_default_timezone_set('Asia/Ho_Chi_Minh');
 
 // Lấy controller và action từ URL
 $controller = isset($_GET['controller']) ? $_GET['controller'] : 'auth';
