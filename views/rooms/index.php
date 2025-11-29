@@ -1,8 +1,8 @@
 <?php include 'views/layouts/header.php'; ?>
 
 <?php if($_SESSION['role'] == 'admin'): ?>
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
-        <h1>🏢 Quản lý phòng máy</h1>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 2rem;">
+        <div></div>
         <a href="index.php?controller=room&action=create" class="btn btn-primary">➕ Thêm phòng mới</a>
     </div>
 <?php else: ?>

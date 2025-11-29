@@ -1,7 +1,7 @@
 <?php include 'views/layouts/header.php'; ?>
 
 <?php if($_SESSION['role'] == 'admin'): ?>
-    <h1>📋 Quản lý và duyệt lịch đặt phòng</h1>
+    <h1>📋 QUẢN LÝ VÀ DUYỆT LỊCH ĐẶT PHÒNG</h1>
 <?php else: ?>
     <h1>📅 Lịch đặt phòng của tôi</h1>
 <?php endif; ?>

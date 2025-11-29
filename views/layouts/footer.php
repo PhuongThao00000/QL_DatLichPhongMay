@@ -1,8 +1,7 @@
-</div>
-    <footer class="footer">
-        <div class="container">
-            <p>&copy; 2024 Hệ thống quản lý phòng máy. All rights reserved.</p>
-        </div>
-    </footer>
+<body>
+    <div class="wrapper">
+        <footer class="footer">
+            © 2025 - HỆ THỐNG QUẢN LÝ ĐẶT LỊCH PHÒNG MÁY
+        </footer>
+    </div>
 </body>
-</html>

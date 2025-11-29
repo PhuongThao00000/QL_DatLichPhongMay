@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Đăng ký</title>
-    <link rel="stylesheet" href="/CNW23N10/room_booking/assets/css/style.css">
+    <link rel="stylesheet" href="/QL_DatLichPhongMay/assets/css/style.css">
 </head>
 <body>
     <div class="auth-container">
